@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Latex, TCAD, math and physics.
 - 🌱 I’m currently learning Sentaurus TCAD.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me xionghongjin325@gmail.com
+- 📫 How to reach me 2210342127@email.szu.edu.cn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: No
 
