@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xhjqm
+- 👋 Hi, I’m Hongjin Xiong
 - 👀 I’m interested in Python, Latex, TCAD, math and physics.
 - 🌱 I’m currently learning Sentaurus TCAD.
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: No
 
 <!---
-xhjqm/xhjqm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+XHJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
